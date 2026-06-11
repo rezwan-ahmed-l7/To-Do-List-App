@@ -39,9 +39,7 @@ The application provides a simple and intuitive task management system that allo
 
 <p align="center">
 
-  <!-- Add your application screenshot here -->
-
-  <img width="900" alt="To-Do List App Screenshot" src="YOUR_SCREENSHOT_LINK_HERE" />
+  <img width="900" alt="To-Do List App Screenshot" src="https://github.com/user-attachments/assets/632d595d-398a-45fb-9a57-0d31f756946d" />
 
 </p>
 
